@@ -1,22 +1,20 @@
 
 
-<h1 align="center">Hello 😄, I'm Amir Zahedi</h1>
-<h3 align="center">A Full-Stack developer 💻</h3>
+<h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
+<h3 align="center">A Tech Developer 💻</h3>
 <p><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Amir-Zahedi" /></p>
 
-- 🔭 I’m currently working on **Private project : CTRL-A**
+- 🔭 Currently I'm working on  **Fire telematics** project
 
-- 📖 I’m currently learning **Node.js & Nuxt.js**
+- 📖 I’m currently learning **Java & Embedded C**
 
-- 💬 Ask me about **React,Vue,Next**
+- 💬 Deep in ** IOT‌ , Electronics &‌ Microcontrollers**
 
-- 📫 How to reach me **a.dehghanazar@gmail.com**
-
-- ⛄ Fun fact **It's not a bug, it's a feature!**
+- 📫 Be in toucn with me via : **amirzahedi0gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhossein-dehghaniazar-363331204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amir-zahedi-956528194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-zahedi-956528194/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
