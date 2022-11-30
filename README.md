@@ -8,9 +8,9 @@
 
 - 📖 I’m currently learning **Java & Embedded C**
 
-- 💬 Deep in **IOT‌ , Electronics &‌ Microcontrollers && modules**
+- 💬 Deep in **IOT‌ , Electronics &‌ Microcontrollers && GSM‌ modules**
 
-- 📫 Be in toucn with me via : **amirzahedi0gmail.com**
+- 📫 Be in touch with me via : **amirzahedi0gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
