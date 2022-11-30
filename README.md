@@ -8,7 +8,7 @@
 
 - 📖 I’m currently learning **Java & Embedded C**
 
-- 💬 Deep in ** IOT‌ , Electronics &‌ Microcontrollers**
+- 💬 Deep in ** IOT‌ , Electronics &‌ Microcontrollers **
 
 - 📫 Be in toucn with me via : **amirzahedi0gmail.com**
 
