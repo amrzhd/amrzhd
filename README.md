@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hello 😄, I'm Amirhossein Dehghanazar</h1>
+<h1 align="center">Hello 😄, I'm Amir Zahedi</h1>
 <h3 align="center">A Full-Stack developer 💻</h3>
-<p><img align="center" src="[https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif)" alt="amirhossein-dehghanazar" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif" alt="amirhossein-dehghanazar" /></p>
 
 - 🔭 I’m currently working on **Private project : CTRL-A**
 
