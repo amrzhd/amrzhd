@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 😄, I'm Amir Zahedi</h1>
 <h3 align="center">A Full-Stack developer 💻</h3>
-<p><img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif" alt="Amir-Zahedi" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="Amir-Zahedi" /></p>
 
 - 🔭 I’m currently working on **Private project : CTRL-A**
 
