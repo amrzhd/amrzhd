@@ -4,7 +4,7 @@
 <h3 align="center">A Tech Developer 💻</h3>
 <p><img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Amir-Zahedi" /></p>
 
-- 🔭 Currently I'm working on  **Fire telematics** project
+- 🔭 Currently I'm working on  **Fire Alarm telematics** project
 
 - 📖 I’m currently learning **Java & Embedded C**
 
