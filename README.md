@@ -4,7 +4,7 @@
 <h3 align="center">An IoT Developer 💻</h3>
 <p><img align="center" src="https://media.tenor.com/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Amir-Zahedi" /></p>
 
-- 🔭 Currently I'm working on  **Fire Alarm telematics** project
+- 🔭 Founder of <a href="https://redl.ink/techcAFE/links"> Tech Cafe | کافه تِک</a>
 
 - 📖 I’m currently learning **Java & Embedded C**
 
