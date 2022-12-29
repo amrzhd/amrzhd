@@ -2,8 +2,9 @@
 
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
 <h3 align="center">An IoT Developer 💻</h3>
-<p><img align="center" src="https://media.tenor.com/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Amir-Zahedi" /></p>
-
+<div align="center">
+<img  src="https://media.tenor.com/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Amir-Zahedi" />
+</div>
 - 🔭 Founder of <a href="https://redl.ink/techcAFE/links"> Tech Cafe | کافه تِک</a>
 
 - 📖 I’m currently learning **Java & Embedded C**
