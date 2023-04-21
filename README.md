@@ -12,7 +12,7 @@
 
 - 💬 Deep in **IOT‌ && Backend**
 
-- 📫 Be in touch with me via : **amirzahedi0gmail.com**
+- 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
