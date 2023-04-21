@@ -10,7 +10,7 @@
 
 - 📖 I’m currently learning **Django Rest Framework & Embedded C**
 
-- 💬 Deep in **IOT‌ , && Backend**
+- 💬 Deep in **IOT‌ && Backend**
 
 - 📫 Be in touch with me via : **amirzahedi0gmail.com**
 
