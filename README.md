@@ -8,9 +8,9 @@
 <br>
  - 🔭 Founder of <a href="https://redl.ink/techcAFE/links"> Tech Cafe | کافه تِک</a>
 
-- 📖 I’m currently learning **Java & Embedded C**
+- 📖 I’m currently learning **Django Rest Framework & Embedded C**
 
-- 💬 Deep in **IOT‌ , Electronics &‌ Microcontrollers && GSM‌ modules**
+- 💬 Deep in **IOT‌ , && Backend**
 
 - 📫 Be in touch with me via : **amirzahedi0gmail.com**
 
