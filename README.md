@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
-<h3 align="center">An IoT Developer 💻</h3>
+<h3 align="center">IoT & Backend Developer 💻</h3>
 <div align="center">
 <img  src="https://media.tenor.com/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Amir-Zahedi" />
 </div>
