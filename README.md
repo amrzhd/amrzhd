@@ -8,9 +8,9 @@
 <br>
  - 🔭 Founder of <a href="https://redl.ink/techcAFE/links"> Tech Cafe | کافه تِک</a>
 
-- 📖 I’m currently learning **Django Rest Framework & Embedded C**
+- 📖 I’m currently learning **Diffusion Models & GANs**
 
-- 💬 Deep in **Backend && IoT**
+- 💬 Deep in **AI & Backend**
 
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
