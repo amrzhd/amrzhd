@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
-<h3 align="center">Backend & IoT Developer 💻</h3>
+<h3 align="center">AI & Backend Developer 💻</h3>
 <div align="center">
 <img  src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Amir-Zahedi" />
 </div>
