@@ -1,17 +1,15 @@
 
 
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
-<h3 align="center">AI & Backend Developer 💻</h3>
+<h3 align="center">🧠 BCI Reseacher & AI Developer  💻</h3>
 <div align="center">
 <img  src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Amir-Zahedi" />
 </div>
 <br>
- - 🔭 Founder of <a href="https://redl.ink/techcAFE/links"> Tech Cafe | کافه تِک</a>
 
-- 📖 I’m currently learning **Diffusion Models & GANs**
-
-- 💬 Deep in **AI & Backend**
-
+- 🔭 I’m currently researching in **Deep Learning Methods used in BCI**
+- 📑 Working on a **Research Paper**
+- 💻 Have a coding experience in **Backend & IoT**
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,16 +18,13 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/937393294286159984/1134821357037813830/django.png" alt="python" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
- <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1036374987059249243/1057870269273878661/Quectel_LOGO_200mmX32mm_300dpi.png" alt="quectel" width="40" height="40"/> </a>
-  <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1036374987059249243/1057866111703592960/web-stmicroelectronics.png" alt="st" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- 
-</p>
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/pytorch.png" alt="Pytorch" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/material-sharp/D00000/keras.png" alt="Keras" width="40" height="40"/> </a>
+<a href="https://mne.tools/" target="_blank" rel="noreferrer"> <img src="https://mne.tools/mne-realtime/_static/mne.svg" alt="MNE" width="60" height="30"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/40/django.png" alt="Django" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/docker.png" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
