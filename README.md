@@ -26,6 +26,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/docker.png" alt="docker" width="40" height="40"/> </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus" width="48" height="48"/> </a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/40/c-plus-plus-logo.png" alt="c-plus-plus" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
