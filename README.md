@@ -3,7 +3,7 @@
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
 <h3 align="center">🧠 BCI Reseacher & AI Developer  💻</h3>
 <div align="center">
-<img  src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Amir-Zahedi" />
+<img  src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" />
 </div>
 <br>
 
