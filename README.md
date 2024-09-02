@@ -7,7 +7,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently researching in **Deep Learning Methods used in BCI**
+- 🔭 I’m currently researching in **Deep Learning Methods in Biomedical Signal Processing & Biomedical Imaging**
 - 📑 Working on a **Research Paper**
 - 💻 Have a coding experience in **Backend & IoT**
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
