@@ -7,14 +7,18 @@
 </div>
 <br>
 
-- 🔭 I’m currently researching in **Deep Learning Methods in Biomedical Signal Processing & Biomedical Imaging**
-- 📑 Working on a **Research Paper**
+- 🔭 "Exploring **Deep Learning** Methods in **Biomedical Signal Processing**."
+- 📑 "Reviewing **XAI** techniques applied in **Biomedical Imaging**."
+- 🧑‍💻 "Developing **EEGNet** and **MRI Skull Stripping** models."
 - 💻 Have a coding experience in **Backend & IoT**
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-AmirZahedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahedi-p-singh/)](https://www.linkedin.com/in/amir-zahedi-956528194/)
+[![Linkedin: anmol](https://img.shields.io/badge/-AmirZahedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrzhd)](https://www.linkedin.com/in/amrzhd)
+[![Medium: AmirZahedi](https://img.shields.io/badge/-AmirZahedi-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@amrzhd)](https://medium.com/@amrzhd)
+[![Kaggle: AmirZahedi](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/amirzahedidareshoori)](https://www.kaggle.com/amirzahedidareshoori)
+[![ORCID: AmirZahedi](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0009-0006-9537-7776)](https://orcid.org/0009-0006-9537-7776)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +31,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/docker.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/40/c-plus-plus-logo.png" alt="c-plus-plus" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
