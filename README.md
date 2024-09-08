@@ -7,9 +7,9 @@
 </div>
 <br>
 
-- 🔭 "Exploring **Deep Learning** Methods in **Biomedical Signal Processing**."
-- 📑 "Reviewing **XAI** techniques applied in **Biomedical Imaging**."
-- 🧑‍💻 "Developing **EEGNet** and **MRI Skull Stripping** models."
+- 🔭 Exploring **Deep Learning** Methods in **Biomedical Signal Processing**.
+- 📑 Reviewing **XAI** techniques applied in **Biomedical Imaging**.
+- 🧑‍💻 Developing **EEGNet** and **MRI Skull Stripping** models.
 - 💻 Have a coding experience in **Backend & IoT**
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
