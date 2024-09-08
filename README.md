@@ -20,9 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/pytorch.png" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/material-sharp/D00000/keras.png" alt="keras" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://mne.tools/" target="_blank" rel="noreferrer"> <img src="https://mne.tools/mne-realtime/_static/mne.svg" alt="mne" width="60" height="40"/> </a>
 <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer"> <img src="https://nipy.org/nibabel/_static/nibabel-logo.svg" alt="nibabel" width="40" height="40"/> </a>
+<a href="https://monai.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/56449156?s=280&v=4" alt="monai" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a>
