@@ -25,6 +25,8 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/pytorch.png" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/23151yolov5.png" alt="yolo" width="70" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="opencv" width="40" height="40"/> </a>
 <a href="https://mne.tools/" target="_blank" rel="noreferrer"> <img src="https://mne.tools/mne-realtime/_static/mne.svg" alt="mne" width="60" height="40"/> </a>
 <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer"> <img src="https://nipy.org/nibabel/_static/nibabel-logo.svg" alt="nibabel" width="40" height="40"/> </a>
 <a href="https://monai.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/56449156?s=280&v=4" alt="monai" width="40" height="40"/> </a>
