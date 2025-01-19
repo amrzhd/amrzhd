@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey 😊, I'm Amir Zahedi</h1>
 <h3 align="center">🧠 BCI Reseacher & AI Developer  💻</h3>
 <div align="center">
@@ -26,9 +24,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/pytorch.png" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/57803fe9-14dd-4a6a-8bc2-0da786284f4e" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/23151yolov5.png" alt="yolo" width="70" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/langchain.png" alt="langchain" width="40" height="40"/> </a>
 <a href="https://mne.tools/" target="_blank" rel="noreferrer"> <img src="https://mne.tools/mne-realtime/_static/mne.svg" alt="mne" width="60" height="40"/> </a>
 <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer"> <img src="https://nipy.org/nibabel/_static/nibabel-logo.svg" alt="nibabel" width="40" height="40"/> </a>
 <a href="https://monai.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/56449156?s=280&v=4" alt="monai" width="40" height="40"/> </a>
@@ -39,4 +38,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/docker.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/40/c-plus-plus-logo.png" alt="c-plus-plus" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
