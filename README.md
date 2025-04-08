@@ -5,10 +5,10 @@
 </div>
 <br>
 
+- 💻 Developing GOBI Project at **Fararo Company**
 - 🔭 Exploring **Deep Learning** Methods in **Biomedical Signal Processing**.
 - 📑 Reviewing **XAI** techniques applied in **Biomedical Imaging**.
-- 🧑‍💻 Developing **EEGNet** and **MRI Skull Stripping** models.
-- 💻 Have a coding experience in **Backend & IoT**
+- 🧑‍💻 Created **EEGNet** and **MRI Skull Stripping** repositories.
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
