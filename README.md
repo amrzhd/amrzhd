@@ -5,9 +5,9 @@
 </div>
 <br>
 
-- 💻 Developing GOBI Project at **Fararo Company**
+- 💻 Developing AI models in GoBI Project at **Fararo Company**
+- 📑 Published a systematic review of **XAI** techniques applied in **Biomedical Imaging**.
 - 🔭 Exploring **Deep Learning** Methods in **Biomedical Signal Processing**.
-- 📑 Reviewing **XAI** techniques applied in **Biomedical Imaging**.
 - 🧑‍💻 Created **EEGNet** and **MRI Skull Stripping** repositories.
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
 
@@ -19,7 +19,7 @@
 [![Twitter: AmirZahedi](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/theamrzhd)](https://twitter.com/theamrzhd)
 [![Instagram: AmirZahedi](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amrzhd)](https://www.instagram.com/amrzhd)
 [![ORCID: AmirZahedi](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0009-0006-9537-7776)](https://orcid.org/0009-0006-9537-7776)
-
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3FiySpQAAAAJ&hl=en)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
