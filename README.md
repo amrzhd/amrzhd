@@ -16,10 +16,10 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrzhd)](https://www.linkedin.com/in/amrzhd)
 [![Medium: AmirZahedi](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@amrzhd)](https://medium.com/@amrzhd)
 [![Kaggle: AmirZahedi](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/amirzahedidareshoori)](https://www.kaggle.com/amrzhd)
-[![Twitter: AmirZahedi](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/theamrzhd)](https://twitter.com/theamrzhd)
-[![Instagram: AmirZahedi](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amrzhd)](https://www.instagram.com/amrzhd)
 [![ORCID: AmirZahedi](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0009-0006-9537-7776)](https://orcid.org/0009-0006-9537-7776)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3FiySpQAAAAJ&hl=en)
+[![Twitter: AmirZahedi](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/theamrzhd)](https://twitter.com/theamrzhd)
+[![Instagram: AmirZahedi](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amrzhd)](https://www.instagram.com/amrzhd)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
