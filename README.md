@@ -6,7 +6,7 @@
 <br>
 
 - 💻 Developing AI models in GoBI Project at **Fararo Company**
-- 📑 Published a systematic review of **XAI** techniques applied in **Biomedical Imaging**.
+- 📑 Published a [systematic review](https://doi.org/10.1002/widm.70031) of **XAI** techniques applied in **Biomedical Imaging**.
 - 🔭 Exploring **Deep Learning** Methods in **Biomedical Signal Processing**.
 - 🧑‍💻 Created **EEGNet** and **MRI Skull Stripping** repositories.
 - 📫 Be in touch with me via : **amirzahedi0@gmail.com**
