@@ -21,6 +21,16 @@
 [![Twitter: AmirZahedi](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/theamrzhd)](https://twitter.com/theamrzhd)
 [![Instagram: AmirZahedi](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amrzhd)](https://www.instagram.com/amrzhd)
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<div align="center">
+  
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrzhd&show_icons=true&theme=tokyonight)
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=amrzhd&theme=tokyonight&hide_border=true)
+
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/40/pytorch.png" alt="pytorch" width="40" height="40"/> </a>
